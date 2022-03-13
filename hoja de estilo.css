@@ -1,0 +1,17 @@
+body {
+    background-color: lightskyblue;
+}
+h1{
+    background-color: rgb(0, 255, 0);
+   
+}
+#encabezado1 {
+color: rgb(165, 108, 42); 
+}
+h2{
+    margin-bottom: 100px;
+    margin-left: 250px;
+}
+#youtube{
+margin-top: 200px;
+}
