@@ -1,0 +1,4 @@
+consideraciones de estilo
+maregenes de texto
+pie de imagen
+ajustar tamaño de marco
